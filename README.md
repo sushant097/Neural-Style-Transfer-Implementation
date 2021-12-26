@@ -1,4 +1,4 @@
-# Neural Style Transfer Implementation
+# Neural Style Transfer Implementation - [Medium Post](https://susant.medium.com/basic-intuition-on-neural-style-transfer-idea-c5ac179d1530)
 
 ![Concept of NST](https://github.com/sushant097/Neural-Style-Transfer-Implementation/blob/master/images/nst_gist.png)
 
