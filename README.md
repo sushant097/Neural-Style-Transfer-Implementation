@@ -52,5 +52,5 @@ The main thing is there is backpropagation of the gradient to update the weights
 ![](https://github.com/sushant097/Neural-Style-Transfer-Implementation/blob/master/images/total_loss.png)
 <hr>
 
-# My Own Painting Generated :simile: :
+# My Own Painting Generated :smile: :
 ![](images/generated_my_image.png)
